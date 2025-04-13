@@ -1,0 +1,950 @@
+{
+  "aap": {
+    "next:kaise": "tum",
+    "next:kahan": "tum",
+    "prev:ko": "din",
+    "next:hamare": "din",
+    "next:(e)": "त्वेल"
+  },
+  "kaise": {
+    "prev:aap": "kas",
+    "next:hain": "kas",
+    "prev:tum": "kash",
+    "next:ho": "kash",
+    "prev:saal": "kasi",
+    "next:hui": "kasi",
+    "prev:barish": "kasi"
+  },
+  "hain": {
+    "prev:kaise": "cha",
+    "prev:rahe": "cha",
+    "prev:bacche": "chee",
+    "prev:bakriyan": "chan",
+    "prev:milte": "chu",
+    "prev:theek": "chan",
+    "prev:aate": "oona",
+    "prev:jaate": "cha",
+    "prev:jaati": "chi",
+    "prev:jate": "cha"
+  },
+  "aapka": {
+    "next:naam": "tumar"
+  },
+  "naam": {
+    "prev:aapka": "naam",
+    "next:kya": "naam",
+    "prev:mera": "naam",
+    "next:…": "nau",
+    "prev:tumhara": "nau",
+    "next:kamal": "naam",
+    "prev:ka": "gic",
+    "next:hai": "gic",
+    "next:a": "naam"
+  },
+  "kya": {
+    "prev:naam": "ki",
+    "next:hai": "ki",
+    "next:tum": "tum?/ke",
+    "prev:number": "key(a)",
+    "next:main": "aachha",
+    "next:hua": "ke",
+    "prev:ravivar": "ki",
+    "next:karoge": "ki"
+  },
+  "hai": {
+    "prev:kya": "cha",
+    "prev:ka": "ch",
+    "prev:9818123456": "chha",
+    "prev:mein": "chhoo",
+    "prev:kahan": "chhoo",
+    "prev:door": "che",
+    "prev:swadisht": "chu",
+    "prev:…": "che",
+    "prev:ped": "cha",
+    "prev:kamal": "cha",
+    "prev:9818356": "chhoo",
+    "prev:bakriyan": "chan",
+    "prev:naam": "narayan",
+    "next:madlan": "narayan",
+    "prev:beti": "chhoo",
+    "prev:padhti": "chi",
+    "prev:theek": "cha",
+    "next:ravivar": "cha",
+    "prev:a": "chhoo",
+    "prev:behen": "chhoo"
+  },
+  "main": {
+    "next:theek": "main",
+    "next:jageshwar": "meyar",
+    "prev:kya": "hitanoo",
+    "next:jaun": "hitanoo",
+    "next:jyada": "jyada",
+    "next:tumhe": "tamuka",
+    "next:khushnaseeb": "myar",
+    "next:tumhari": "main",
+    "next:dar": "main",
+    "next:udas": "main",
+    "next:khush": "main",
+    "next:kis": "main",
+    "next:vyast": "main",
+    "next:samjha": "main",
+    "next:…": "main",
+    "prev:haan": "mee",
+    "next:school": "mee",
+    "next:keval": "meri",
+    "next:bazaar": "ma",
+    "next:khana": "ma",
+    "next:jaata": "ma",
+    "next:jaati": "ma",
+    "next:gaya": "ma",
+    "next:gayi": "ma",
+    "next:jata": "me"
+  },
+  "theek": {
+    "prev:main": "theek",
+    "next:hoon": "theek",
+    "prev:sab": "theek",
+    "next:hain": "theek",
+    "next:hai": "theek"
+  },
+  "hoon": {
+    "prev:theek": "chun",
+    "prev:shuda": "jo",
+    "next:jo": "jo",
+    "prev:karta": "kehal",
+    "prev:khushnaseeb": "chu",
+    "next:ki": "chu",
+    "prev:gaya": "chun",
+    "prev:udas": "chun",
+    "prev:khush": "chun",
+    "prev:vyast": "chun",
+    "prev:se": "chun",
+    "next:tum": "choo(n)",
+    "prev:padhata": "chou(n)",
+    "prev:raha": "chu",
+    "prev:khata": "chu",
+    "prev:jaata": "chu",
+    "prev:jaati": "chi",
+    "prev:jata": "chu"
+  },
+  "shubh": {
+    "next:prabhat": "shubh",
+    "next:prabhaat": "shubh"
+  },
+  "prabhat": {
+    "prev:shubh": "prabhat"
+  },
+  "kahan": {
+    "prev:aap": "ka",
+    "next:ja": "ka",
+    "prev:gaon": "ka(n)",
+    "next:hai": "ka(n)",
+    "prev:jagah": "kahan",
+    "prev:tum": "kahan",
+    "next:se": "kahan",
+    "next:rehte": "kaan"
+  },
+  "ja": {
+    "prev:kahan": "ja",
+    "next:rahe": "ja",
+    "prev:bazaar": "ja",
+    "next:raha": "ja"
+  },
+  "rahe": {
+    "prev:ja": "riya",
+    "next:hain": "riya"
+  },
+  "yeh": {
+    "next:kitne": "yo",
+    "next:jagah": "yo",
+    "next:ek": "yo"
+  },
+  "kitne": {
+    "prev:yeh": "kunla",
+    "next:ka": "kunla",
+    "prev:tumhare": "kadu",
+    "next:bacche": "kadu"
+  },
+  "ka": {
+    "prev:kitne": "mahango",
+    "next:hai": "mahango",
+    "prev:school": "naam",
+    "next:naam": "naam"
+  },
+  "tum": {
+    "prev:kya": "tum",
+    "next:shaadi": "beyaah",
+    "next:kab": "tum",
+    "prev:ki": "tu",
+    "next:mere": "tu",
+    "next:khoobsoorat": "tu",
+    "next:kahan": "tu",
+    "next:kaise": "tum",
+    "prev:hoon": "tum",
+    "next:mujhse": "mee",
+    "next:log": "tum",
+    "next:is": "tum"
+  },
+  "maine": {
+    "next:pichle": "meel"
+  },
+  "pichle": {
+    "prev:maine": "pichhali",
+    "next:mahine": "pichhali",
+    "next:saal": "pichhali",
+    "next:mausam": "pichhari"
+  },
+  "mahine": {
+    "prev:pichle": "mahen",
+    "next:khareeda": "mahen"
+  },
+  "khareeda": {
+    "prev:mahine": "main",
+    "next:tha": "main"
+  },
+  "tha": {
+    "prev:khareeda": "lecha"
+  },
+  "tumhara": {
+    "next:phone": "turner",
+    "next:gaon": "tumar",
+    "next:naam": "tumar"
+  },
+  "phone": {
+    "prev:tumhara": "phone",
+    "next:number": "phone"
+  },
+  "number": {
+    "prev:phone": "number",
+    "next:kya": "number",
+    "prev:mobile": "ank",
+    "next:9818123456": "ank",
+    "next:9818356": "number"
+  },
+  "mera": {
+    "next:mobile": "meyar",
+    "next:naam": "meyar",
+    "next:ek": "myar"
+  },
+  "mobile": {
+    "prev:mera": "mobile",
+    "next:number": "mobile"
+  },
+  "9818123456": {
+    "prev:number": "9818123456",
+    "next:hai": "9818123456"
+  },
+  "shaadi": {
+    "prev:tum": "hai",
+    "next:shuda": "hai",
+    "prev:se": "bhatik",
+    "prev:mujhse": "beyahh",
+    "next:karoge": "beyahh"
+  },
+  "shuda": {
+    "prev:shaadi": "go",
+    "next:ho": "go",
+    "next:hoon": "honch"
+  },
+  "ho": {
+    "prev:shuda": "chha",
+    "prev:dost": "chu",
+    "prev:kuch": "chee",
+    "prev:khoobsoorat": "lage",
+    "prev:se": "che",
+    "prev:kaise": "cha",
+    "prev:rehte": "chaa",
+    "prev:jaante": "chaa",
+    "prev:khush": "haie",
+    "next:jayenge": "haie"
+  },
+  "jageshwar": {
+    "prev:main": "beyahh",
+    "next:se": "beyahh"
+  },
+  "se": {
+    "prev:jageshwar": "jageshwar",
+    "next:shaadi": "jageshwar",
+    "prev:dhyan": "rakh",
+    "prev:…": "saun",
+    "next:hoon": "saun",
+    "prev:kahan": "ka",
+    "next:ho": "ka"
+  },
+  "jo": {
+    "prev:hoon": "ki",
+    "next:almora": "ki"
+  },
+  "almora": {
+    "prev:jo": "almor",
+    "next:mein": "almor"
+  },
+  "mein": {
+    "prev:almora": "main",
+    "next:hai": "main",
+    "prev:mausam": "main",
+    "next:barsaat": "main",
+    "prev:school": "main",
+    "next:kaam": "main",
+    "next:padhata": "main",
+    "prev:ghar": "ma"
+  },
+  "tumhare": {
+    "next:kitne": "tumar",
+    "next:sab": "teri",
+    "next:jaise": "tyar"
+  },
+  "bacche": {
+    "prev:kitne": "nantin",
+    "next:hain": "nantin"
+  },
+  "kab": {
+    "prev:tum": "kabhai",
+    "next:aaoge": "kabhai",
+    "next:aayoge": "kabhai"
+  },
+  "aaoge": {
+    "prev:kab": "aala"
+  },
+  "nahi": {
+    "next:abhi": "na",
+    "prev:abhi": "naa",
+    "prev:accha": "nee",
+    "prev:samjha": "na",
+    "prev:ghar": "kalie",
+    "next:aate": "kalie"
+  },
+  "abhi": {
+    "prev:nahi": "alle",
+    "next:nahi": "alle"
+  },
+  "haan": {
+    "next:kayi": "hoi",
+    "next:main": "hoi",
+    "next:kai": "hoi"
+  },
+  "kayi": {
+    "prev:haan": "bahaut",
+    "next:baar": "bahaut"
+  },
+  "baar": {
+    "prev:kayi": "baar",
+    "prev:kai": "baar"
+  },
+  "gaon": {
+    "prev:tumhara": "goon",
+    "next:kahan": "goon"
+  },
+  "hamare": {
+    "next:paas": "hamer",
+    "prev:aap": "hamar",
+    "next:ghar": "hamar"
+  },
+  "paas": {
+    "prev:hamare": "pass",
+    "next:do": "pass",
+    "next:2": "pass"
+  },
+  "do": {
+    "prev:paas": "dwe",
+    "next:gaye": "dwe",
+    "prev:khana": "de"
+  },
+  "gaye": {
+    "prev:do": "gouru",
+    "next:aur": "gouru",
+    "prev:hum": "gaya"
+  },
+  "aur": {
+    "prev:gaye": "aur",
+    "next:panch": "aur",
+    "prev:gayen": "aur",
+    "next:5": "aur",
+    "prev:bhai": "aur",
+    "next:ek": "aur"
+  },
+  "panch": {
+    "prev:aur": "panchh",
+    "next:bakriyan": "panchh"
+  },
+  "bakriyan": {
+    "prev:panch": "baakar",
+    "next:hain": "baakar",
+    "prev:5": "baakar",
+    "next:hai": "baakar"
+  },
+  "saal": {
+    "prev:pichle": "saal",
+    "next:gehun": "saal",
+    "prev:pichhle": "kheti",
+    "next:kaise": "kheti"
+  },
+  "gehun": {
+    "prev:saal": "tumer",
+    "next:ki": "tumer"
+  },
+  "ki": {
+    "prev:gehun": "geahon",
+    "next:fasal": "geahon",
+    "prev:hoon": "ki",
+    "next:tum": "ki",
+    "prev:gehu": "saal"
+  },
+  "fasal": {
+    "prev:ki": "kheti",
+    "next:kaisi": "kheti",
+    "prev:khadi": "fasal",
+    "next:pichhle": "tumer"
+  },
+  "kaisi": {
+    "prev:fasal": "kasi",
+    "next:thi": "kasi",
+    "prev:barsaat": "kasi"
+  },
+  "thi": {
+    "prev:kaisi": "bhee"
+  },
+  "bahut": {
+    "next:accha": "eduk",
+    "prev:tumhari": "bahut",
+    "next:yaad": "bahut"
+  },
+  "accha": {
+    "prev:bahut": "bhali",
+    "next:nahi": "bhali"
+  },
+  "khadi": {
+    "next:fasal": "thaadi"
+  },
+  "mausam": {
+    "prev:pichle": "saal",
+    "next:mein": "saal"
+  },
+  "barsaat": {
+    "prev:mein": "bersat",
+    "next:kaisi": "bersat"
+  },
+  "jaun": {
+    "prev:main": "pa(n)",
+    "prev:taraf": "jalun"
+  },
+  "jyada": {
+    "prev:main": "batul",
+    "next:baat": "batul"
+  },
+  "baat": {
+    "prev:jyada": "to",
+    "next:karta": "to"
+  },
+  "karta": {
+    "prev:baat": "nee",
+    "next:hoon": "nee",
+    "prev:yaad": "karnu",
+    "prev:kaam": "kar"
+  },
+  "tumhe": {
+    "prev:main": "sachi",
+    "next:sach": "sachi",
+    "prev:baad": "din",
+    "next:dekh": "din"
+  },
+  "sach": {
+    "prev:tumhe": "baat",
+    "next:bataun": "baat"
+  },
+  "bataun": {
+    "prev:sach": "batun"
+  },
+  "sab": {
+    "prev:tumhare": "sab",
+    "next:sapne": "sab",
+    "prev:mere": "sab",
+    "next:kuch": "sab",
+    "next:theek": "sab",
+    "prev:kar": "ber",
+    "next:khush": "ber"
+  },
+  "sapne": {
+    "prev:sab": "sapna",
+    "next:pure": "sapna"
+  },
+  "pure": {
+    "prev:sapne": "sachi",
+    "next:hon": "sachi"
+  },
+  "hon": {
+    "prev:pure": "hon"
+  },
+  "jaise": {
+    "prev:tumhare": "jais",
+    "next:dost": "jais"
+  },
+  "dost": {
+    "prev:jaise": "sangi",
+    "next:kam": "sangi",
+    "prev:mere": "sangi",
+    "next:ho": "sangi",
+    "prev:ache": "sangi/dagadya"
+  },
+  "kam": {
+    "prev:dost": "milna",
+    "next:milte": "milna"
+  },
+  "milte": {
+    "prev:kam": "mushkil",
+    "next:hain": "mushkil",
+    "prev:ko": "din"
+  },
+  "khushnaseeb": {
+    "prev:main": "khushnaseeb",
+    "next:hoon": "khushnaseeb"
+  },
+  "mere": {
+    "prev:tum": "meru",
+    "next:dost": "meru",
+    "next:sabse": "myar",
+    "next:sab": "meru",
+    "next:school": "meyar"
+  },
+  "hamari": {
+    "next:dosti": "hamar"
+  },
+  "dosti": {
+    "prev:hamari": "dosti",
+    "next:hamesha": "dosti"
+  },
+  "hamesha": {
+    "prev:dosti": "hamesa",
+    "next:rahegi": "hamesa"
+  },
+  "rahegi": {
+    "prev:hamesha": "raich"
+  },
+  "sabse": {
+    "prev:mere": "sabse",
+    "next:ache": "sabse"
+  },
+  "ache": {
+    "prev:sabse": "badhiya",
+    "next:dost": "badhiya"
+  },
+  "tumhari": {
+    "prev:main": "twes",
+    "next:bahut": "twes"
+  },
+  "yaad": {
+    "prev:bahut": "yaad",
+    "next:karta": "yaad"
+  },
+  "kuch": {
+    "prev:sab": "kucch",
+    "next:ho": "kucch"
+  },
+  "khoobsoorat": {
+    "prev:tum": "badhiya",
+    "next:ho": "badhiya"
+  },
+  "dar": {
+    "prev:main": "dar",
+    "next:gaya": "dar"
+  },
+  "gaya": {
+    "prev:dar": "gye",
+    "next:hoon": "gye",
+    "prev:main": "gayo"
+  },
+  "udas": {
+    "prev:main": "dukhi",
+    "next:hoon": "dukhi"
+  },
+  "khush": {
+    "prev:main": "khush",
+    "next:hoon": "khush",
+    "prev:sab": "khush",
+    "next:ho": "khush"
+  },
+  "kis": {
+    "prev:main": "kathe",
+    "next:taraf": "kathe"
+  },
+  "taraf": {
+    "prev:kis": "baat",
+    "next:jaun": "baat",
+    "prev:us": "uttha-kai)"
+  },
+  "jagah": {
+    "prev:yeh": "thaun",
+    "next:kitni": "thaun",
+    "next:kahan": "jaag"
+  },
+  "kitni": {
+    "prev:jagah": "kati",
+    "next:door": "kati"
+  },
+  "door": {
+    "prev:kitni": "door",
+    "next:hai": "door"
+  },
+  "peeche": {
+    "next:jao": "pachil"
+  },
+  "jao": {
+    "prev:peeche": "ja",
+    "prev:aage": "ja"
+  },
+  "aage": {
+    "next:jao": "aage"
+  },
+  "dheere": {
+    "next:bolo": "dheere"
+  },
+  "bolo": {
+    "prev:dheere": "bol"
+  },
+  "dhyan": {
+    "next:se": "dhyan"
+  },
+  "vyast": {
+    "prev:main": "byast",
+    "next:hoon": "byast"
+  },
+  "samjha": {
+    "prev:main": "bujh",
+    "next:nahi": "bujh"
+  },
+  "khana": {
+    "next:swadisht": "khano",
+    "prev:mujhe": "khano",
+    "next:do": "khano",
+    "prev:main": "khana",
+    "next:khata": "khana"
+  },
+  "swadisht": {
+    "prev:khana": "mitho",
+    "next:hai": "mitho"
+  },
+  "mujhe": {
+    "next:khana": "mani"
+  },
+  "maaf": {
+    "next:karna": "maaf"
+  },
+  "karna": {
+    "prev:maaf": "kar"
+  },
+  "tumse": {
+    "next:milke": "tuj"
+  },
+  "milke": {
+    "prev:tumse": "bhetak",
+    "next:khushi": "bhetak"
+  },
+  "khushi": {
+    "prev:milke": "badhiya",
+    "next:hui": "badhiya"
+  },
+  "hui": {
+    "prev:khushi": "lago",
+    "prev:kaise": "hanchhi"
+  },
+  "…": {
+    "prev:main": "…",
+    "next:se": "…",
+    "prev:naam": "…",
+    "next:hai": "…"
+  },
+  "school": {
+    "prev:main": "school",
+    "next:mein": "school",
+    "prev:mere": "school",
+    "next:ka": "school"
+  },
+  "kaam": {
+    "prev:mein": "kaam",
+    "next:karta": "kaam"
+  },
+  "hua": {
+    "prev:kya": "hego"
+  },
+  "jaldi": {
+    "next:ghar": "baere"
+  },
+  "ghar": {
+    "prev:jaldi": "ghyav",
+    "next:aao": "ghyav",
+    "prev:hamare": "ghar",
+    "next:nahi": "ghar",
+    "next:mein": "ghar"
+  },
+  "aao": {
+    "prev:ghar": "ajayaa"
+  },
+  "bazaar": {
+    "next:kaun": "ko",
+    "prev:main": "bazaar",
+    "next:ja": "bazaar"
+  },
+  "kaun": {
+    "prev:bazaar": "jal",
+    "next:jayega": "jal"
+  },
+  "jayega": {
+    "prev:kaun": "baazar"
+  },
+  "hey": {
+    "next:bhagwan": "o"
+  },
+  "bhagwan": {
+    "prev:hey": "babo"
+  },
+  "usne": {
+    "next:ek": "ull"
+  },
+  "ek": {
+    "prev:usne": "saib",
+    "next:seb": "saib",
+    "prev:yeh": "ek",
+    "next:ped": "ek",
+    "prev:keval": "ek",
+    "next:beti": "ek",
+    "prev:mera": "ek",
+    "next:chhota": "ek",
+    "prev:aur": "ek",
+    "next:badi": "ek"
+  },
+  "seb": {
+    "prev:ek": "khe",
+    "next:khaya": "khe"
+  },
+  "khaya": {
+    "prev:seb": "haaai"
+  },
+  "ped": {
+    "prev:ek": "peer",
+    "next:hai": "peer"
+  },
+  "us": {
+    "next:taraf": "(utthai/"
+  },
+  "woh": {
+    "next:log": "उन",
+    "next:kitab": "vi"
+  },
+  "log": {
+    "prev:woh": "(un)",
+    "prev:tum": "sab"
+  },
+  "kamal": {
+    "prev:naam": "kamal",
+    "next:hai": "kamal"
+  },
+  "padhata": {
+    "prev:mein": "paroon",
+    "next:hoon": "paroon"
+  },
+  "rehte": {
+    "prev:kahan": "roon",
+    "next:ho": "roon"
+  },
+  "kyun": {
+    "next:ravivaar": "to"
+  },
+  "ravivaar": {
+    "prev:kyun": "tum",
+    "next:ko": "tum"
+  },
+  "ko": {
+    "prev:ravivaar": "itvaar",
+    "next:aap": "itvaar",
+    "prev:ravivar": "itvaar",
+    "next:milte": "itvaar"
+  },
+  "aate": {
+    "prev:nahi": "na",
+    "next:hain": "na"
+  },
+  "mujhse": {
+    "prev:tum": "dagar(d)",
+    "next:shaadi": "dagar(d)"
+  },
+  "karoge": {
+    "prev:shaadi": "karlaa",
+    "prev:kya": "karchaa"
+  },
+  "9818356": {
+    "prev:number": "9818123456",
+    "next:hai": "9818123456"
+  },
+  "(e)": {
+    "prev:aap": "(tvel)"
+  },
+  "gehu": {
+    "next:ki": "pichhari"
+  },
+  "pichhle": {
+    "prev:fasal": "geahon",
+    "next:saal": "geahon"
+  },
+  "jaante": {
+    "next:ho": "jhaan"
+  },
+  "aayoge": {
+    "prev:kab": "aala"
+  },
+  "2": {
+    "prev:paas": "dwe",
+    "next:gayen": "dwe"
+  },
+  "gayen": {
+    "prev:2": "gouru",
+    "next:aur": "gouru"
+  },
+  "5": {
+    "prev:aur": "panchh",
+    "next:bakriyan": "panchh"
+  },
+  "madlan": {
+    "prev:hai": "nagar",
+    "next:nagar": "nagar"
+  },
+  "nagar": {
+    "prev:madlan": "chhoo"
+  },
+  "kai": {
+    "prev:haan": "bahaut",
+    "next:baar": "bahaut"
+  },
+  "keval": {
+    "prev:main": "kewal",
+    "next:ek": "kewal"
+  },
+  "beti": {
+    "prev:ek": "cheli",
+    "next:hai": "cheli"
+  },
+  "raha": {
+    "prev:ja": "ryo",
+    "next:hoon": "ryo"
+  },
+  "prabhaat": {
+    "prev:shubh": "savera"
+  },
+  "khata": {
+    "prev:khana": "khaau",
+    "next:hoon": "khaau"
+  },
+  "vah": {
+    "next:kitaab": "vo"
+  },
+  "kitaab": {
+    "prev:vah": "kitab",
+    "next:padhti": "kitab"
+  },
+  "padhti": {
+    "prev:kitaab": "padhi",
+    "next:hai": "padhi",
+    "prev:kitab": "padhni"
+  },
+  "jaata": {
+    "prev:main": "jaau",
+    "next:hoon": "jaau"
+  },
+  "jaati": {
+    "prev:main": "jaau",
+    "next:hoon": "jaau",
+    "prev:hum": "ja",
+    "next:hain": "ja"
+  },
+  "hum": {
+    "next:jaate": "hami",
+    "next:jaati": "hami",
+    "next:gaye": "hami",
+    "next:gayi": "hami",
+    "next:jate": "hami"
+  },
+  "jaate": {
+    "prev:hum": "ja",
+    "next:hain": "ja"
+  },
+  "gayi": {
+    "prev:main": "gayi",
+    "prev:hum": "gayi"
+  },
+  "barish": {
+    "next:kaise": "bersat"
+  },
+  "mej": {
+    "next:par": "mej"
+  },
+  "par": {
+    "prev:mej": "par",
+    "prev:table": "par"
+  },
+  "is": {
+    "prev:tum": "itvaar",
+    "next:ravivar": "itvaar"
+  },
+  "ravivar": {
+    "prev:is": "din",
+    "next:kya": "din",
+    "prev:hai": "pein",
+    "next:ko": "pein"
+  },
+  "itne": {
+    "next:din": "sab"
+  },
+  "din": {
+    "prev:itne": "tumuko(n)",
+    "next:baad": "tumuko(n)"
+  },
+  "baad": {
+    "prev:din": "bahut",
+    "next:tumhe": "bahut"
+  },
+  "dekh": {
+    "prev:tumhe": "baad",
+    "next:kar": "baad"
+  },
+  "kar": {
+    "prev:dekh": "dekhi",
+    "next:sab": "dekhi"
+  },
+  "jayenge": {
+    "prev:ho": "jaala"
+  },
+  "a": {
+    "prev:naam": "a",
+    "next:hai": "a"
+  },
+  "chhota": {
+    "prev:ek": "naan",
+    "next:bhai": "naan"
+  },
+  "bhai": {
+    "prev:chhota": "bhai",
+    "next:aur": "bhai"
+  },
+  "badi": {
+    "prev:ek": "thul",
+    "next:behen": "thul"
+  },
+  "behen": {
+    "prev:badi": "banhi",
+    "next:hai": "banhi"
+  },
+  "kitab": {
+    "prev:woh": "kitab",
+    "next:padhti": "kitab"
+  },
+  "jata": {
+    "prev:main": "gae",
+    "next:hoon": "gae"
+  },
+  "jate": {
+    "prev:hum": "jaa",
+    "next:hain": "jaa"
+  },
+  "table": {
+    "next:par": "mej"
+  }
+}

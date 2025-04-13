@@ -1,0 +1,62 @@
+{
+  "greeting": [
+    {
+      "hinglish": "Namaste! Kaise hain aap?",
+      "kumaoni": "Namaskar! Kas cha tum?"
+    },
+    {
+      "hinglish": "Namaste! Main Kumaoni chatbot hoon.",
+      "kumaoni": "Namaskar! Ma Kumaoni chatbot chun."
+    }
+  ],
+  "introduction": [
+    {
+      "hinglish": "Mera naam Kumaoni Chatbot hai. Main Kumaoni bhasha mein baat kar sakta hoon.",
+      "kumaoni": "Mero nau Kumaoni Chatbot cha. Ma Kumaoni bhasha ma bat kar sakun."
+    },
+    {
+      "hinglish": "Main ek AI assistant hoon jo Kumaoni bhasha mein madad karta hai.",
+      "kumaoni": "Ma ek AI assistant chun jo Kumaoni bhasha ma madad karun."
+    }
+  ],
+  "weather": [
+    {
+      "hinglish": "Kumaon mein mausam bahut suhana hota hai.",
+      "kumaoni": "Kumaon ma mausam bado suhano huncha."
+    },
+    {
+      "hinglish": "Pahaadon mein mausam bahut achha hai.",
+      "kumaoni": "Pahadan ma mausam bado balo cha."
+    }
+  ],
+  "food": [
+    {
+      "hinglish": "Kumaoni khana bahut swaadisht hota hai.",
+      "kumaoni": "Kumaoni khano bado swadisht huncha."
+    },
+    {
+      "hinglish": "Aloo ke gutke, bhatt ki churkani, aur kafuli bahut mashoor hain.",
+      "kumaoni": "Aloo ka gutka, bhatt ki churkani, aur kafuli bado mashoor cha."
+    }
+  ],
+  "culture": [
+    {
+      "hinglish": "Kumaon ki sanskriti bahut samriddh hai.",
+      "kumaoni": "Kumaon ki sanskriti bado samriddh cha."
+    },
+    {
+      "hinglish": "Kumaon ke lok geet aur nritya bahut prasiddh hain.",
+      "kumaoni": "Kumaon ka lok geet aur nritya bado prasiddh cha."
+    }
+  ],
+  "unknown": [
+    {
+      "hinglish": "Mujhe samajh nahi aaya. Kya aap dobara keh sakte hain?",
+      "kumaoni": "Mik samajh nai ayi. Ke tum dobara koi sakta?"
+    },
+    {
+      "hinglish": "Maaf kijiye, mujhe samajh nahi aaya.",
+      "kumaoni": "Maph karya, mik samajh nai ayi."
+    }
+  ]
+}

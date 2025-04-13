@@ -1,0 +1,55 @@
+# Ignore models directory (large files)
+models/
+models/gemma/
+/models/gemma/
+**/models/gemma/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Ollama model files
+ollama_model/
+Modelfile
+
+# Keep data directory structure but ignore specific model files
+# Uncomment the line below if you want to ignore all data files
+# data/*.json
+
+# Specific model files to ignore
+data/vocab_mapping.json
+data/phrases_mapping.json
+data/grammar_rules.json
+data/idioms.json
+data/expressions.json
+data/patterns.json
+data/collocations.json
+data/conversation_history.json
+data/training_log.json
+
+# Logs
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints

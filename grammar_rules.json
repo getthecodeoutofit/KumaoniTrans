@@ -1,0 +1,24 @@
+{
+  "verb_endings": {
+    "e": "a",
+    "a": "r",
+    "ya": "ke",
+    "i": "i",
+    "o": "a",
+    "ti": "li",
+    "ta": "au",
+    "yi": "yi",
+    "ye": "ru",
+    "na": "no",
+    "te": "il",
+    "u": "i"
+  },
+  "noun_gender": {},
+  "postpositions": {
+    "ka": "naam",
+    "se": "jageshwar",
+    "ki": "geahon",
+    "ko": "itvaar",
+    "par": "par"
+  }
+}

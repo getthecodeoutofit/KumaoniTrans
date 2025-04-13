@@ -1,0 +1,38 @@
+{
+  "introduction": [
+    {
+      "role": "user",
+      "hinglish": "namaste",
+      "kumaoni": "namaskar"
+    },
+    {
+      "role": "bot",
+      "hinglish": "namaste, kaise hain aap?",
+      "kumaoni": "namaskar, kas cha tum?"
+    }
+  ],
+  "weather": [
+    {
+      "role": "user",
+      "hinglish": "aaj mausam kaisa hai",
+      "kumaoni": "aaj mausam kas cha"
+    },
+    {
+      "role": "bot",
+      "hinglish": "aaj mausam bahut achha hai",
+      "kumaoni": "aaj mausam bado balo cha"
+    }
+  ],
+  "food": [
+    {
+      "role": "user",
+      "hinglish": "kumaon ka khaana bahut achha hai",
+      "kumaoni": "kumaon ko khano bado balo cha"
+    },
+    {
+      "role": "bot",
+      "hinglish": "haan, kumaoni vyanjan bahut swaadisht hote hain",
+      "kumaoni": "ho, kumaoni pakwan bado swadisht huncha"
+    }
+  ]
+}
