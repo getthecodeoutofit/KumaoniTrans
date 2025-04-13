@@ -3,6 +3,8 @@ models/
 models/gemma/
 /models/gemma/
 **/models/gemma/
+models/facebook/
+**/models/facebook/
 
 # Ignore all model checkpoints and saved models
 **/checkpoint-*/
@@ -12,6 +14,14 @@ models/gemma/
 **/*.bin
 gemma-kumaoni*/
 nllb-kumaoni*/
+
+# Ignore Python cache files
+__pycache__/
+**/__pycache__/
+
+# Ignore Ollama model files
+ollama_model/
+Modelfile
 
 # Python bytecode
 __pycache__/
@@ -42,14 +52,14 @@ Thumbs.db
 ollama_model/
 Modelfile
 
-# Keep data directory structure but ignore specific model files
-# Uncomment the line below if you want to ignore all data files
-# data/*.json
+# Keep data directory structure but allow specific data files
+# We want to track these files for version control
+!data/vocab_mapping.json
+!data/phrases_mapping.json
+!data/grammar_rules.json
+!data/context_mapping.json
 
-# Specific model files to ignore
-data/vocab_mapping.json
-data/phrases_mapping.json
-data/grammar_rules.json
+# Ignore other data files that might be generated during runtime
 data/idioms.json
 data/expressions.json
 data/patterns.json
