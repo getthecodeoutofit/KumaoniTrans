@@ -15,10 +15,43 @@
   },
   "noun_gender": {},
   "postpositions": {
-    "ka": "naam",
-    "se": "jageshwar",
-    "ki": "geahon",
-    "ko": "itvaar",
-    "par": "par"
+    "ka": "ko",
+    "ke": "ka",
+    "ki": "ki",
+    "ko": "ku",
+    "se": "le",
+    "me": "ma",
+    "par": "par",
+    "tak": "tak"
+  },
+  "pronouns": {
+    "main": "ma",
+    "mujhe": "mik",
+    "mera": "mero",
+    "meri": "meri",
+    "hum": "hami",
+    "hamara": "hamro",
+    "tu": "tu",
+    "tum": "tum",
+    "tumhara": "tumro",
+    "aap": "tum",
+    "aapka": "tumar",
+    "woh": "u",
+    "uska": "usko",
+    "uski": "uski",
+    "ye": "yo",
+    "iska": "isko",
+    "iski": "iski"
+  },
+  "question_words": {
+    "kya": "ke",
+    "kaun": "ko",
+    "kahan": "kakh",
+    "kaise": "kas",
+    "kyun": "kya",
+    "kitna": "kati",
+    "kitne": "kati",
+    "kitni": "kati",
+    "kab": "kab"
   }
 }
