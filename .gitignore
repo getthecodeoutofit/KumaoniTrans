@@ -1,8 +1,17 @@
-# Ignore models directory (large files)
+# Ignore models directory and all model files (large files)
 models/
 models/gemma/
 /models/gemma/
 **/models/gemma/
+
+# Ignore all model checkpoints and saved models
+**/checkpoint-*/
+**/*.safetensors
+**/*.pt
+**/*.pth
+**/*.bin
+gemma-kumaoni*/
+nllb-kumaoni*/
 
 # Python bytecode
 __pycache__/
